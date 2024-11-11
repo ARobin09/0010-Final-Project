@@ -1,7 +1,7 @@
 # 0010-Final-Project
 ## Overview
 This project seeks to find the "best" neighborhood in Pittsburgh. We defined "best" as the cleanest neighborhood, finding data to support this metric.
-
+## Group
 **Team Name:** The Green Machine
 
 
@@ -9,7 +9,7 @@ This project seeks to find the "best" neighborhood in Pittsburgh. We defined "be
 |-----|-----|
 |Aidan Robin|apr86@pitt.edu|
 |Utsav Gowda|usg3@pitt.edu|
-
+## Datasets Used
 |Dataset|Description|
 |------|------|
 |[Daily Allegheny County Air Quality Data](https://data.wprdc.org/datastore/dump/4ab1e23f-3262-4bd3-adbf-f72f0119108b)|List of air quality data collected from the Allegheny County Health Department|
