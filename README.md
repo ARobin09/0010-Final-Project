@@ -4,8 +4,8 @@ This project seeks to find the "best" neighborhood in Pittsburgh. We defined "be
 
 |Group Members|Email|
 |-----|-----|
-|Aidan Robin|Utsav Gowda|
-|apr86@pitt.edu|usg3@pitt.edu|
+|Aidan Robin|apr86@pitt.edu|
+|Utsav Gowda|usg3@pitt.edu|
 
 |Dataset|Description|
 |------|------|
